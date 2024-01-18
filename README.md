@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of HKTest is to …
+The goal of HKTest is to … testing build_readme
 
 ## Installation
 
